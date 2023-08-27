@@ -5,13 +5,13 @@ cache
 .eslintcache
 
 node_modules/
-base/node_modules/
-vue3/node_modules/
-qiankun-react/node_modules/
+main/node_modules/
+web/vue-demo/node_modules/
+web/react-demo/node_modules/
 dist/
-base/dist/
-vue3/dist/
-qiankun-react/dist/
+main/dist
+web/vue-demo/dist/
+web/react-demo/dist/
 
 # local env files
 .env.local
